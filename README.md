@@ -12,7 +12,7 @@
 ##
     
 - 🔭 Atuo como Desenvolvedor Web - Backend Java/Kotlin/Spring Node.js/Nest.js/Express
-- 🌱 Estou estudando front-end aplicando React JS
+- 🌱 Frontend - React.js, Javascript/Typescript, TailwindCSS
 - 👯 Busco colaborar com projetos web a princípio.
 - 😄 Pronouns: ele/dele
   
@@ -21,7 +21,7 @@
 ```js
     const Birth =  "Born in Maranhão, Brazil. "; 
     let Education =  "Graduated in Computing Science. ";     
-    let Career =  "I'm a Software Developer."; 
+    let Career =  "I'm a Backend Developer."; 
     
     console.log(`${Birth}, ${Education}, ${Career}`);
 ``` 
@@ -31,9 +31,13 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Lukaz-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Lukaz-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="Lukaz-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Lukaz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lukaz-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Lukaz-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Lukaz-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/node/node-original.svg">
+  <img align="center" alt="Lukaz-Nest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nest/nest-original.svg">
+  <img align="center" alt="Lukaz-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   <img align="center" alt="Lukaz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lukaz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lukaz-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
