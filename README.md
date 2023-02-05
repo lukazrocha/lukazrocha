@@ -11,7 +11,7 @@
     
 ##
     
-- 🔭 Atuo como Desenvolvedor Web
+- 🔭 Atuo como Desenvolvedor Web - Backend Java/Kotlin/Spring Node.js/Nest.js/Express
 - 🌱 Estou estudando front-end aplicando React JS
 - 👯 Busco colaborar com projetos web a princípio.
 - 😄 Pronouns: ele/dele
@@ -30,6 +30,7 @@
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Lukaz-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Lukaz-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Lukaz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lukaz-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Lukaz-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
