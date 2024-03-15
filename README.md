@@ -36,7 +36,7 @@
  <img align="center" alt="Lukaz-Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Lukaz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lukaz-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Lukaz-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/angular-original.svg">
+  <img align="center" alt="Lukaz-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/angularjs-original.svg">
   <img align="center" alt="Lukaz-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Lukaz-Nest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
   <img align="center" alt="Lukaz-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
